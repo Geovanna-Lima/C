@@ -1,2 +1,2 @@
 # LinguagemC
-Exercicios C
+Materia e exercicios resolvidos em C

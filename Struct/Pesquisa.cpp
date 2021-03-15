@@ -76,7 +76,7 @@ int main()
                 printf("os modelos em ordem alfabetica sao:\n",i);
             }
             break;
-            //alteração//
+            //alteraÃ§Äƒo//
             case 4:
             {
                 printf("alteracao!");
